@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 dist/
 *.spec
+
+# debug_portal.py 生成的临时文件（可能包含敏感信息）
+debug_log.txt
+debug_result.json
+portal_page.html
